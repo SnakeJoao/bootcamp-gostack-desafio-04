@@ -14,7 +14,7 @@
 
 ## :page_with_curl: Descrição
 
-Este projeto foi desenvolvido com base na descrição do quarto desafio do campo de inicialização do GoStack.
+Este projeto foi desenvolvido com base na descrição do quarto desafio do bootcamp GoStack.
 
 #### :rocket: Tecnologias
 
@@ -35,7 +35,7 @@ $ yarn
 $ yarn dev
 ```
 
-#### Note: Você deve ter instalado o gerenciador de pacotes [Yarn](https://yarnpkg.com/) globalmente.
+#### Nota: Você deve ter instalado o gerenciador de pacotes [Yarn](https://yarnpkg.com/) globalmente.
 
 ## :blue_book: Referências
 
